@@ -1,3 +1,6 @@
+# Quick Note
+I am in no way affiliated with the devs of UTMT. I wanted to look at the code and change some stuff to make it better!
+
 # UndertaleModTool
 
 [![Underminers Discord](https://img.shields.io/discord/566861759210586112?label=Discord&logo=discord&logoColor=white)](https://discord.gg/hnyMDypMbN) [![GitHub](https://img.shields.io/github/license/krzys-h/UndertaleModTool?logo=github)](https://github.com/krzys-h/UndertaleModTool/blob/master/LICENSE.txt)
